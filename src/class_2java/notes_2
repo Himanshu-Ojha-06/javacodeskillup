@@ -1,0 +1,42 @@
+datatypes -> 1)primitive 2)non-primitive 3)collections
+primitive ->boolean,int,char,short,int,long,float
+non-primitive ->String,Array,objects
+collections->
+
+#declaration of Array->int[] values = new int[3];
+
+#Assigning values in Array -> values[0]=3;values[1]=5;values[2]=8;
+
+#Printing Array with inhanced for loop -> 
+int [] values = new int[3];
+for(int temp:values)
+{
+System.out.println(temp);
+}
+
+#Array of integer syntax-1-> int [] values = new int[3];
+
+#Array of integer syntax-2 ->int values[]={56,32,59,31}; //c++ standards(will not throw error)
+                             int[] values = {56,32,59,31);//java standards
+
+#Array of integer Syntax-3 ->int assign[] = new int[]{56,32,59,31}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

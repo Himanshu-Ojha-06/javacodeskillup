@@ -1,0 +1,20 @@
+Interface
+ 
+It can have only abstract methods and variables. It cannot have a method body. It is used to achieve abstraction and multiple inheritance in Java.
+ 
+ALL the variables are public, static and final by default. It cannot be instantiated like the class using new Keyword.
+ 
+It can be used to achieve loose coupling. (Plug or UnPlug)
+ 
+using this, you can expose your implementation through your interface, not required to expose through your Class. External users use only interface not class.
+It is the example of abstraction
+
+Example
+ 
+RateOfInterestCalcuation
+ 
+Note
+ 
+Since Java 8, we can have default and static methods in an interface.
+ 
+Since Java 9, we can have private methods in an interface.

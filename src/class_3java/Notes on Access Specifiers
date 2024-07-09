@@ -1,0 +1,7 @@
+Access modifiers										Defualt         private       protected       public  
+Accessible inside class									yes				yes				yes				yes
+Accessible within the subclass inside the same package	yes				no				yes				yes
+Accessible outside the package							no				no				no				yes
+Accessible within the subclass outside the package		no				no				yes				yes	
+encapsulation:-> hiding the details in implimentation level(private,protected,public)
+abstraction:-> hiding the details in design level(read method)        

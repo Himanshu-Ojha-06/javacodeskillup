@@ -1,0 +1,4 @@
+interfaces can't be instantiated      (we can't make it's object)
+interface ref = new interface         (wrong way)
+interface ref = new Classname();      (correct way)
+AbstractClass ref = new ClassName();  (correct way)

@@ -1,0 +1,4 @@
+single inheritence: Base/Parent----->Child/Subclass
+mutiple inheritence: class1-->class2&lass3,class2&class3-->class4(cannot implement directly but through interfaces)
+multilevel inheritence: class1(Grandpa)--->class2(father)--->class3(son)
+Hierarichal inheritence: Base/Parent--->class1&class2&class3
